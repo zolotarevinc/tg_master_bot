@@ -14,3 +14,4 @@ This is a simple Telegram bot that allows users to play a "Guess the Number" gam
    ```bash
    git clone https://github.com/yourusername/tg_game_bot.git
    cd tg_game_bot
+# tg_master_bot
